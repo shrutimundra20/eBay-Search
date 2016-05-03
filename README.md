@@ -1,4 +1,4 @@
-¥	Designed a web application that allows users to search for products on eBay, using the eBay API. The web application was built using android
+¥	Designed a web application that allows users to search for products on eBay, using the eBay API. 
 
 ¥	The front end of the web application parsed JSON data to provide search results to the user. Enhanced user experience was achieved as it provided various search filters, pagination and it also highlighted the most popular items
 
